@@ -1,3 +1,5 @@
+<div align="center">
+
 # 嗨嗨，我是賴彥光 👋
 
 ### 一位正在慢慢點亮技能樹的大學生 🌱
@@ -95,8 +97,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=QAQBlaze0827&color=ff69b4&style=flat-square&label=參觀人數)
 
 </div>
-'''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created {path}")
