@@ -1,8 +1,8 @@
 <div align="center">
 
-# 嗨嗨，我是賴彥光 👋
+# 嗨嗨
 
-### 一位正在慢慢點亮技能樹的大學生 🌱
+### 一位快撐不下去的大學生 🌱
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&pause=1000&color=F28AB2&center=true&vCenter=true&width=520&lines=雲林科技大學資訊管理系;正在學習+AI、網頁與樹莓派;喜歡把想到的東西慢慢做出來！" alt="Typing SVG" />
 
@@ -40,7 +40,7 @@
 
 </div>
 
-> 這些技術有些還在學習中，目前以能看懂、修改並完成基礎功能為主。
+> 這些技術有些還在學習中。
 
 ---
 
