@@ -1,10 +1,11 @@
 <div align="center">
 
-# 嗨嗨
+# 嗨嗨 👋
 
-### 一位快撐不下去的大學生 🌱
+### 一位快撐不下去，但應該算是有在學習的大學生 🌱
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=22&pause=1000&color=F28AB2&center=true&vCenter=true&width=520&lines=雲林科技大學資訊管理系;正在學習+AI、網頁與樹莓派;喜歡把想到的東西慢慢做出來！" alt="Typing SVG" />
+🎓 雲林科技大學資訊管理系  
+🤖 正在摸索 AI、網頁開發與 Raspberry Pi  
 
 </div>
 
@@ -40,7 +41,7 @@
 
 </div>
 
-> 這些技術有些還在學習中。
+> 目前大多還在學習階段，以能看懂、修改並完成基礎功能為主。
 
 ---
 
@@ -74,26 +75,10 @@
 
 ---
 
-## 📊 GitHub 小紀錄
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=QAQBlaze0827&show_icons=true&theme=rose_pine&hide_border=true&locale=zh-tw" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAQBlaze0827&layout=compact&theme=rose_pine&hide_border=true&locale=zh-tw" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=QAQBlaze0827&theme=rose-pine&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### ✨ 還在慢慢學習，但希望可以把每個想法都做出來！
 
-![Profile Views](https://komarev.com/ghpvc/?username=QAQBlaze0827&color=ff69b4&style=flat-square&label=參觀人數)
+感謝你來逛逛我的 GitHub ฅ՞•ﻌ•՞ฅ
 
 </div>
