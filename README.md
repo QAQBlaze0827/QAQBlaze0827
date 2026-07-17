@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
-
 # 嗨嗨，我是賴彥光 👋
 
 ### 一位正在慢慢點亮技能樹的大學生 🌱
